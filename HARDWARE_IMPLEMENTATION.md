@@ -69,4 +69,4 @@ constraints/
 
 ## Evidence
 
-Hardware photographs, Vivado implementation screenshots, and simulation waveforms can be added to this directory when available.
+Hardware photographs, Vivado implementation screenshots, and simulation waveforms can be added to this directory.
